@@ -1,0 +1,7 @@
+name: ShutdownServer
+version: ${project.version}
+author: InvisRaidinq
+main: xyz.invisraidinq.shutdown.ShutdownPlugin
+commands:
+  shutdown:
+    aliases: [closeserver]
